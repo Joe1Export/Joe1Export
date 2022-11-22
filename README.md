@@ -5,12 +5,12 @@
 - 📫 You can email me by my work email with joe@1export.com
 
 Known programming languages
-Visual Basic
-C++
-C#
-HTML
-CSS
-Java
+Visual Basic,
+C++,
+C#,
+HTML,
+CSS,
+Java,
 PHP
 
 <!---
